@@ -29,7 +29,7 @@ This is a simple HTML/CSS/JavaScript website template for a fictional tech-relat
      - Utilizes Bootstrap's grid system for responsive layout design.
      - Columns are organized using `.row` and `.col-md-6` classes to create a two-column layout on medium and larger devices.
      - Ensures proper alignment and responsiveness across different screen sizes.
-     - 
+       
 
 6. **Footer:**
    - Simple footer section with copyright information and links to Privacy, Terms, and Support pages.
