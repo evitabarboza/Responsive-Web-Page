@@ -21,7 +21,17 @@ This is a simple HTML/CSS/JavaScript website template for a fictional tech-relat
    - A section with cards displaying more information about various topics.
    - Each card includes an image, title, description, and a "Continue Reading" button.
 
-5. **Footer:**
+
+5. **Containers and Grid System:**
+   - **Container-Expand:** 
+     - The website layout is contained within a `.container-expand` div, providing full-width content.
+   - **Responsive Grid System:**
+     - Utilizes Bootstrap's grid system for responsive layout design.
+     - Columns are organized using `.row` and `.col-md-6` classes to create a two-column layout on medium and larger devices.
+     - Ensures proper alignment and responsiveness across different screen sizes.
+     - 
+
+6. **Footer:**
    - Simple footer section with copyright information and links to Privacy, Terms, and Support pages.
 
 ### File Structure:
